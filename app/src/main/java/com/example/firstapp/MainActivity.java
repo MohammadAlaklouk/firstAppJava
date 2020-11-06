@@ -28,7 +28,6 @@ TextView textView;
               textView.setTextColor(Color.BLACK);
               textView.setBackgroundColor(Color.GREEN);
               textView.setText(R.string.clicked);
-
           }
       });
     }
